@@ -6,7 +6,7 @@ import (
 	"io"
 	"sync"
 
-	"github.com/andybalholm/brotli"
+	"github.com/Paramoshka/brotli"
 	"github.com/valyala/bytebufferpool"
 	"github.com/valyala/fasthttp/stackless"
 )

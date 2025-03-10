@@ -16,7 +16,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/andybalholm/brotli"
+	"github.com/Paramoshka/brotli"
 	"github.com/klauspost/compress/gzip"
 	"github.com/klauspost/compress/zstd"
 	"github.com/valyala/bytebufferpool"
