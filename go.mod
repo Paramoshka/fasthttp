@@ -1,4 +1,4 @@
-module github.com/valyala/fasthttp
+module github.com/Paramoshka/fasthttp
 
 go 1.23.0
 
